@@ -14,9 +14,6 @@ const collectEmployees = function() {
   let userInput=window.prompt('Enter First Name:');
   let userInput2=window.prompt('Enter Last Name:');
   let userInput3=window.prompt('Enter Employee Salary:');
-
-
-
   
   return [userInput, userInput2, userInput3];
   
